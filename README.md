@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1920" height="1140" alt="Screenshot 2025-09-06 111552" src="https://github.com/user-attachments/assets/d3c7d2f9-b2e5-454b-b802-edaffecab12c" />
+
 ## Output
+<img width="761" height="483" alt="Screenshot 2025-09-06 111716" src="https://github.com/user-attachments/assets/f34ad7b8-1ff2-4f2a-8adf-932d1e9bddc1" />
+
 ## Result
+Thus Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor is verified using MATLAB
